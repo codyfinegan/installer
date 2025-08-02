@@ -1,0 +1,13 @@
+{
+    "name": "temporalslide/installer",
+    "description": "Installer for Composer package",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Temporalslide\\Installer\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
